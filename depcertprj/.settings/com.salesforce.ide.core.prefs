@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+endpointApiVersion=38.0
+endpointEnvironment=Other (Specify)
+endpointServer=vatsdepcert--dev2.cs13.my.salesforce.com
+httpsProtocol=true
+ideVersion=38.0
+keependpoint=false
+metadataFormatVersion=38.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE-3949342158179906719
+readTimeout=400
+sessionId=
+username=varalukatte@vatsdepcert.com.dev2
